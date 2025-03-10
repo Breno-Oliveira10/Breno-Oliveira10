@@ -7,10 +7,7 @@ Aqui você vai encontrar as minhas habilidades, tecnologias que utilizo e formas
 
 ##  Sobre Mim 🏆
 
-Busco aprofundar meus conhecimentos em desenvolvimento front end e melhorar minhas práticas de código. Atualmente estou estudando e aprimorando minhas habilidades em:  
-
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
+Busco aplicar meus conhecimentos em front-end, focando em criar código claro, organizado e de fácil manutenção. Atualmente, estudo e pratico HTML, CSS e JavaScript, dedicando-me a entender fundamentos como estrutura semântica, estilização responsiva e interatividade básica, sempre buscando soluções simples e eficazes para os projetos.
 
 ## Conecte-se Comigo 🔗  
 
