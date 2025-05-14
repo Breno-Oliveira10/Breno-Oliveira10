@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&pause=1000&color=240A36&background=48073300&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+meu+nome+%C3%A9+Breno+Oliveira+%F0%9F%91%8B;Sou+Desenvolvedor+Front-End+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&pause=1000&color=FFFFFF&background=48073300&center=true&vCenter=true&width=500&lines=Ol%C3%A1,+meu+nome+%C3%A9+Breno+Oliveira+%F0%9F%91%8B;Sou+Desenvolvedor+Front-End+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%9A%80" alt="Typing SVG">
 </div>
+
 
 
 Aqui você vai encontrar as minhas habilidades, tecnologias que utilizo e formas de contato.
