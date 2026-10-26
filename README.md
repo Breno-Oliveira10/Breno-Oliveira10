@@ -20,8 +20,10 @@ Tenho interesse em inteligência artificial e estou sempre explorando ferramenta
 ## Habilidades 💻
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![VS Code](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![AI Agents](https://shields.io)
-
+![AI Agents](https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-17181C?style=for-the-badge&logo=opencode&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-10A37F?logo=openai&logoColor=white&style=for-the-badge)
 
 
 
